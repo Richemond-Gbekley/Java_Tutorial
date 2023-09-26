@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class Tax {
     public static void main(String[] args) {
@@ -55,4 +55,3 @@ public class Tax {
 
     }
 
-*/
