@@ -1,2 +1,0 @@
-FIRSTNAME	 LASTNAME	phonenumber	Age	
-Deborah	 Agbenyo	0257420075	18
