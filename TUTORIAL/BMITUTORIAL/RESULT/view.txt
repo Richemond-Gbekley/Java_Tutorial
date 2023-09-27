@@ -1,0 +1,4 @@
+Deborah 23 1  You are normal 23.0
+Gbekley 56 2  You are under weight 14.0
+Rich 34 2  You are under weight 8.5
+Richemond 233 234  You are under weight 0.004255241434728614
