@@ -1,5 +1,4 @@
-//Richemond Gbekley
-//BS456102720
+
 
 public class Stack {
     int Stack[] = new int[5];
