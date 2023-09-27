@@ -1,0 +1,7 @@
+Aaron 50 1.2 34.72222222222222  You are obessed
+Aaron 40 1.6 15.624999999999996  You are under weight
+Afiba 50 1.4 25.510204081632658  You are overweight
+Bennette Awortwe 67 1.2 46.52777777777778  You are obessed
+Richmond 50 1.7 17.301038062283737  You are under weight
+    
+deb 60 1 60.0  You are obessed
